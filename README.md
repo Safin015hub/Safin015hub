@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Nafis Al Safin
 
-🎓 1st Trimester CSE Student  
+🎓 1st Trimester CSE Student at United International University 
 💻 C Programming Enthusiast | Solving Problems Daily  
-📚 Currently Learning: Git, Algorithms, Problem Solving  
+📚 Currently Learning: Git,Problem Solving  
 
 ---
 
 ## 🛠️ Tools & Tech I Use
 - 💡 C (Primary Language)
 - 🔧 Git & GitHub
-- 🖥️ Windows & Linux (basic terminal)
+- 🖥️ Windows (basic terminal)
 - ✍️ Markdown & README formatting
 
 ---
