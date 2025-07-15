@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Nafis Al Safin 👋</h1>
 <p align="center">
-🎓 CSE Student | 💻 C Programming Enthusiast | 🌱 Lifelong Learner
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Hi+there%2C+I'm+Nafis+Al+Safin+%F0%9F%91%8B;CSE+Undergrad+Student+%F0%9F%8E%93;C+Programming+Enthusiast+%F0%9F%92%BB;Lifelong+Learner+%F0%9F%8C%B1" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -44,7 +44,7 @@
 
 ### 📁 Featured Repository
 
-- 🔗 [C Problem (if-else) Solutions](https://github.com/Safin015hub/C-if-else-solutions) – My daily practice codes in C
+- 🔗 [C Problem -(https://github.com/Safin015hub/C-problems) – My daily practice codes in C
 
 ---
 
