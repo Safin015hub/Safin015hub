@@ -15,15 +15,15 @@
 ---
 
 ### 🧰 Tools & Technologies
-`C` `Git` `GitHub` `Markdown` `VS Code` `Windows` *(and more coming soon!)*
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Safin015hub&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Safin015hub&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Safin015hub&layout=compact&theme=radical)
+
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Safin015hub&layout=compact&theme=radical)
 
 ---
 
@@ -42,9 +42,5 @@
 ## 💬 Let's Connect
 
 Feel free to check out my work, follow me, or connect if you're also learning and building every day!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/md-nafis-al-safin/)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/nafis.al.safin)  
-[![Email](https://img.shields.io/badge/Gmail-Email-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:nafisalsafin15@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/md-nafis-al-safin/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/nafis.al.safin) [![Email](https://img.shields.io/badge/Gmail-Email-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:nafisalsafin15@gmail.com)
 📬 _"Start small, stay consistent, and grow big."_ – **Nafis Al Safin** 🌱
