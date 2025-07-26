@@ -8,7 +8,7 @@
 ### 👨‍🎓 About Me
 - 🎓 2nd Trimester student at **United International University**
 - 💡 Passionate about Web Development , Competitive Programming , problem solving and clean code  
-- 🧠 Currently learning: `Git`, `Problem Solving`, `Markdown`
+- 🧠 Currently learning: `C`,`C++`,`Python`,`Git`, `Problem Solving`, `Markdown`
 - 🛠️ Practicing C programming daily and solving structured problems
 - 🗣️ I believe: *"Start small, stay consistent, and grow big."*
 
