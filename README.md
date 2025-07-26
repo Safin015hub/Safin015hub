@@ -41,6 +41,9 @@
 
 ## 💬 Let's Connect
 
-Feel free to check out my work, follow me, or connect if you're also learning and building every day!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/md-nafis-al-safin/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/nafis.al.safin) [![Email](https://img.shields.io/badge/Gmail-Email-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:nafisalsafin15@gmail.com)
+Feel free to check out my work, follow me, or connect if you're also learning and building every day!  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/md-nafis-al-safin/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/nafis.al.safin) [![Email](https://img.shields.io/badge/Gmail-Email-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:nafisalsafin15@gmail.com)  
+
 📬 _"Start small, stay consistent, and grow big."_ – **Nafis Al Safin** 🌱
+
